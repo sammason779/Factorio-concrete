@@ -1,0 +1,9 @@
+{
+  "name": "advanced-concrete",
+  "version": "0.1.0",
+  "title": "Advanced Concrete",
+  "author": "You",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod adds in even better concrete."
+}
