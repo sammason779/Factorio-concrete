@@ -220,11 +220,11 @@ data:extend({
 
       material_background =
       {
-        picture = "__base__/graphics/terrain/concrete/advanced-concrete.png",
+        picture = "__advanced-concrete__/graphics/terrain/concrete/advanced-concrete.png",
         count = 8,
         hr_version =
         {
-          picture = "__base__/graphics/terrain/concrete/hr-advanced-concrete.png",
+          picture = "__advanced-concrete__/graphics/terrain/concrete/hr-advanced-concrete.png",
           count = 8,
           scale = 0.5
         }
